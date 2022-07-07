@@ -1,0 +1,60 @@
+jira website lilnk https://reactblogsite.atlassian.net/jira/software/projects/RBP/boards/1
+
+
+imported file 
+1. react-redux
+2. sass
+3. bootstarp
+4. React icon
+5. ract-toolkit
+6.
+
+1 footer
+2. search bar
+3. filter search
+4 loading
+5 add item
+6 review
+7 qoute
+8 about us page
+9 contact us page
+10 product
+11 navbar mobile responsive
+12 sing up log in
+13 home section 3 4 5
+14 blog page
+15 prograsing bar and chart
+
+
+
+desing instruction list 
+
+1. Responsive menu amader kara project_15 er menu ta add karte hobe .
+
+2.slide kare open karte hobe scroll down karle por left thake  right and right thake left karte hobe .
+
+3. card viewed picture er website link jodi lage taile dakte hobe https://www.pinterest.com/pin/883479651872159241/
+
+4. gallery image er link https://nicepage.com/website-design/preview/travel-freedom-779773?device=desktop jodi responsive er dakha dorkar hoy taile check karte hobe.
+
+5. gallery image viewed pic er link https://nicepage.com/website-design/preview/build-with-us-72896?device=desktop jodi responsive check karte hoy .
+
+5. freequently ask quesiton er link https://preview.themeforest.net/item/chisfis-online-booking-react-template/full_screen_preview/33515927?_ga=2.38096931.1236175505.1657133756-825686058.1655999396&_gac=1.191168088.1655999514.Cj0KCQjwntCVBhDdARIsAMEwACmHbusATvRh_FhDOC6dq01cAzbCxjgVOjHFkhKDNk4LIV0nVm2jbtkaAhXAEALw_wcB
+
+6. our featues uporer link ak ee  and hover karle je rokom asbe sai link http://preview.themeforest.net/item/trydo-creative-agency-react-template/full_screen_preview/25457315?_ga=2.11924916.1236175505.1657133756-825686058.1655999396&_gac=1.150975812.1655999514.Cj0KCQjwntCVBhDdARIsAMEwACmHbusATvRh_FhDOC6dq01cAzbCxjgVOjHFkhKDNk4LIV0nVm2jbtkaAhXAEALw_wcB
+
+7. log in page er link https://dribbble.com/shots/15252242-Sign-Up-Page/attachments/7002202?mode=media
+
+
+8. user je kno somy review dite parbe sai rokom filed thakbe about us page er modde 
+
+9. about us page e 2 joner CV add karte hobe and kisu privious kag er pic dite hobe . and 3 4 ta section add kara jay amon kisu cinta karte hobe er  modde 
+
+10. product page ja ja dite casse r ki sai gula holo amra je kag gula karse and ja karbo sai type er kisu kag jamon navbar contact page er kisu design card 
+slider footer etc and ai sob kag er jonno ki ki use karse janmon html css js etc ai sob thakbe and product er kisu description thakbe pic er sathy sathy 
+
+11. product add karar somoy akta input filed thakbe sai form er fill er upor base kare product add hobe 
+
+12. Error page er img er nise akta sada button add karte hobe go back name e
+
+
