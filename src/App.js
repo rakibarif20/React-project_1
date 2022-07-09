@@ -1,9 +1,11 @@
 import React from "react";
-import "../src/assests/css/style.scss";
+import './assests/css/style.scss'
+import Loading from "./pages/Loading/Loading";
 
 const App = () => {
   return (
     <div>
+      {/* <Loading /> */}
       <h2 className="title">My name is Rakib Hasan</h2>
       <span className="span">This is test file </span>
       <button className="btn">Test button</button>
