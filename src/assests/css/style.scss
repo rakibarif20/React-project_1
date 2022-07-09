@@ -1,0 +1,37 @@
+@import "reset.scss";
+
+$transition: all ease 0.3s;
+
+// light  mode
+
+//Light mode- body:$gray, btn:$very_dark,btnbg:$vivid_blue, btnbghover:$strong_blue, title:$very_dark,paragraph:$very_dark_grayish_blue, text:$very_dark_grayish_blue,
+.title {
+  color: $very_dark;
+  font-size: 20ex;
+  text-align: center;
+}
+.span {
+  font-size: 14px;
+}
+
+.btn {
+  border: none;
+  outline: none;
+  padding: 10px 15px;
+  border-radius: 20px;
+  color: $very_dark;
+  background: $strong_blue;
+  transition: $transition;
+  color: $white;
+  
+  &:hover {
+    background: $vivid_blue;
+    cursor: pointer;
+  }
+}
+
+.pargraph {
+  font-size: 16px;
+  margin-bottom: 0;
+  text-align: justify;
+}
