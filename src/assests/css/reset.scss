@@ -1,4 +1,3 @@
-// @use "color.scss";
 @import "./color.scss";
 
 *,
@@ -13,6 +12,8 @@ body {
   font-family: "Montserrat", sans-serif;
   line-height: 1.5;
   font-size: 0.875rem;
+  background: $gray;
+  font-weight: 500;
 }
 
 h1,

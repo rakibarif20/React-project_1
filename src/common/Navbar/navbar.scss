@@ -1,0 +1,61 @@
+@import "../../assests/css/style.scss";
+.nav-main {
+  background: #ffffff;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+//Light mode- body:$gray, btn:$very_dark,btnbg:$vivid_blue, btnbghover:$strong_blue, title:$very_dark,paragraph:$very_dark_grayish_blue, text:$very_dark_grayish_blue,
+.nav-section {
+  width: 90vw;
+  margin: 0 auto;
+  max-width: 1170px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-logo {
+  padding: 4px 0px;
+}
+
+.nav-items {
+  ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+    li {
+      padding: 4px 12px;
+
+      a {
+        text-transform: capitalize;
+        color: $very_dark;
+        transition: all 0.3s;
+
+        &:hover {
+          color: salmon;
+          cursor: pointer;
+        }
+      }
+    }
+  }
+}
+
+.btnArea {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+
+  button {
+    margin: 0px 8px;
+  }
+}
+
+.btn-dark-light {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 4px;
+  padding: 8px !important;
+  width: 50px;
+  height: 25px;
+}

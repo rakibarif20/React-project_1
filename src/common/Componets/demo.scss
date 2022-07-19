@@ -1,0 +1,17 @@
+/* grid css fle 
+.container {
+  padding-left: 0;
+  padding-right: 0;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(277px, 1fr));
+  grid-gap: 20px;
+  padding-left: 3rem;
+  padding-right:3rem;
+}
+.grid > article img {
+  max-width: 100%;
+  max-height: 100%;
+}
+ */
